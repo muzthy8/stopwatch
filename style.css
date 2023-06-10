@@ -1,0 +1,30 @@
+/* #root{
+    text-align: center;
+    font-size: large;
+}
+
+sub{
+    font-size: smaller;
+}
+
+botton{
+    margin: 10px;
+    font-size: large;
+    cursor: pointer;
+
+} */
+
+#root{
+    text-align: center;
+    font-size: xx-large;
+}
+
+sub{
+    font-size: smaller;
+}
+
+button{
+    margin: 10px;
+    font-size: large;
+    cursor: pointer;
+}
